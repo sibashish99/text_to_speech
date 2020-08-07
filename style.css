@@ -2,7 +2,7 @@ html {
   font-size: 10px;
 }
 body {
-  background: #2a3831;
+  background:linear-gradient(to right , rgba(0, 0, 0, 0.884),  #00ff80);
   font-family: "fantacy";
   font-weight: 200;
   font-size: 20px;
